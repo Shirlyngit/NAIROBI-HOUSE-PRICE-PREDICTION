@@ -1,3 +1,7 @@
+## FLASK_APP SCREENSHOT
+![Nairobi House Price Prediction](https://github.com/user-attachments/assets/e3619147-6f9f-4137-99a8-39b77e181006)
+
+
 # 🏡NAIROBI-HOUSE-PRICE-PREDICTION-SYSTEM
 
 OBJECTIVE: Build a Predictive Machine Learning System to predict the house prices in different demographic areas within Nairobi Metropolitan area - Kenya. Then build a ChatBot for user engagement with this Housing prices information.
@@ -40,7 +44,6 @@ For more detailed explanations, refer to the README.md files within each subfold
 📊 MS Excel: Used Excel for data organization, validation, and preliminary analysis.  
 💻 Git: Version control and collaboration through Git, ensuring smooth project management.
 
-## FLASK_APP SCREENSHOT
-![Nairobi House Price Prediction](https://github.com/user-attachments/assets/e3619147-6f9f-4137-99a8-39b77e181006)
+
 
 
